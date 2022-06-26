@@ -5,6 +5,8 @@ class Solution:
             if (i == s[0:len(i)]):
                 sum += 1
         return sum
+        # return len([(i) for i in words if i == s[0:len(i)]])
+
 
 # You are given a string array words and a string s, where words[i] and s comprise only of lowercase English letters.
 #
