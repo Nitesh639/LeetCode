@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4d0276a-d39c-4639-8ee6-f9c478fcb117" name="Changes" comment="" />
+    <list default="true" id="c4d0276a-d39c-4639-8ee6-f9c478fcb117" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Easy/Arrays/Minimum_Amount_of_Time_to_Fill_Cups.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +28,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/nitesh/Desktop/LeetCode&quot;
+    &quot;last_opened_file_path&quot;: &quot;/home/nitesh/Desktop/Niffler&quot;
   }
 }</component>
   <component name="RunManager">
