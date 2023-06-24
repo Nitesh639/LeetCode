@@ -20,6 +20,9 @@ class LinkedList:
             lastNode.next = newNode
 
     def printList(self):
+        if self.head is None:
+            print("Empty LinkedList")
+            return
         currentNode = self.head
         while True:
             print(currentNode.data)
